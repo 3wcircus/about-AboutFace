@@ -2,11 +2,6 @@
 
 AboutFace is a lightweight Flutter-based social networking app available on web, Android, and iOS, designed to connect users through simple and intuitive interactions. Users can create and manage their profiles, post text and images to a timeline, comment on posts, and follow or message other users. Leveraging AI tools (Grok, ChatGPT) for optimizing profile management and real-time interaction features, the app provides a seamless and engaging social experience across platforms.
 
-## Links
-- [Visit AboutFace Web Version](https://aboutface.social)
-- [Download on the App Store](#) *(Placeholder link, update with actual App Store URL)*
-- [Get it on Google Play](#) *(Placeholder link, update with actual Google Play URL)*
-
 ## Screenshots
 
 ### User Profile View
